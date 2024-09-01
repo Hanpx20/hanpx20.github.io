@@ -12,7 +12,7 @@ title                    : "Peixuan Han's Personal Page"
 title_separator          : "-"
 name                     : &name "Peixuan Han"
 description              : &description "personal description"
-url                      : https://hanpx20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hanpx20.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hanpx20/hanpx20.github.io"
 
@@ -21,10 +21,10 @@ repository               : "Hanpx20/hanpx20.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   name             : "Peixuan Han"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "U.S."
   employer         : "University of Illinois, Urbana-Champaign"
   uri              : # URL
