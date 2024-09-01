@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Peixuan Han is a first-year PhD student in University of Illinois, Urbana-Champaign, advised by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+Peixuan Han is a first-year PhD student in University of Illinois, Urbana-Champaign. He is advised by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
